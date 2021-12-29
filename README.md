@@ -1,39 +1,5 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-```java
-String name = "Jhonatan";
-byte age = 19;
-String nacionality = "Colombian";
-String code[] = {Java, HTML, CSS, Javascript, Python, C, C++};
-String interests = "Estoy interesado en aprender y profundizar en el Desarrollo de Software.";
-```
-
-```python
-name = "Jhonatan"
-funtion Jhonatan(name, age, code):
-  name = "Jhonatan"
-  age = 19
-  code = "Java"
-  
-  return name + age + code
-```
-
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
 - 👋 Hola, soy Jhonatan Esteban Castrillon Gonzalez.
 - 👀 Estoy interesado en aprender y profundizar en el Desarrollo de Software.
 - 🌱 Actualmente estoy aprendiendo lenguaje Java.
@@ -42,16 +8,16 @@ const thai = {
 ## Redes sociales y contacto
 <p align="center">
   <a href= "https://www.linkedin.com/in/jcastrillong/">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png" width="50" height="50"/>
   </a>
   <a href= "https://twitter.com/jcastrillong_">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" width="50" height="50"/>
   </a>
   <a href="https://www.instagram.com/jcastrillong/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" width="50" height="50"/>
   </a>
   <a href="mailto:jhonatancastrillon34@gmail.com">
-    <img src="https://cdn-icons.flaticon.com/png/512/3686/premium/3686989.png?token=exp=1640749723~hmac=2bb8e9c24cd93368bc101cf2fb9f100a" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2258/2258570.png" width="50" height="50"/>
   </a>
 </p>
 
