@@ -1,13 +1,18 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Jhonatan Castrillon" />
-</h1>
+My name is Jhonatan Castrillon, I'am 19 years old.
 
-- 👋 Hola, soy Jhonatan Esteban Castrillon Gonzalez.
-- 👀 Estoy interesado en aprender y profundizar en el Desarrollo de Software.
-- 🌱 Actualmente estoy aprendiendo lenguaje Java.
-- 👔 He aprendido(sin profundizar en el lenguaje), lenguajes como Python, C, C++ y Java.
+**languages and tools:**  
+
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">Java</code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">Javascrpt</code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">HTML</code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">CSS</code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">Python</code>
+<code><img height="20" src="https://cdn-icons.flaticon.com/png/512/3665/premium/3665923.png?token=exp=1640754754~hmac=34ea37cc00a29f691acac03544b1cae0">C</code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">C++</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">MySQL</code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo.png">Git</code>
 
 ## Redes sociales y contacto
 <p>
