@@ -16,7 +16,7 @@ My name is Jhonatan Castrillon, I'am 19 years old.
 <code>Git</code>
 
 ## My GitHub Stats📈
-<p> <img src="https://github-readme-stats.vercel.app/api?username=jcastrillong&show_icons=true&theme=gotham" alt="jcastrillong" />
+<p aling="center"> <img src="https://github-readme-stats.vercel.app/api?username=jcastrillong&show_icons=true&theme=gotham" alt="jcastrillong" />
 
 ## Social media and contact
 <p>
