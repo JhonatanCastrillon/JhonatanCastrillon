@@ -1,5 +1,20 @@
 ### Hola, soy Jhonatan <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 - 👋 Hola, soy Jhonatan Esteban Castrillon Gonzalez.
 - 👀 Estoy interesado en aprender y profundizar en el Desarrollo de Software.
 - 🌱 Actualmente estoy aprendiendo lenguaje Java.
@@ -20,10 +35,6 @@
     <img src="https://cdn-icons.flaticon.com/png/512/3686/premium/3686989.png?token=exp=1640749723~hmac=2bb8e9c24cd93368bc101cf2fb9f100a" width="50" height="50"/>
   </a>
 </p>
-
-
-  
-
 
 <!---
 JhonatanCastrillon/JhonatanCastrillon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
