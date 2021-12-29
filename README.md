@@ -17,7 +17,7 @@ My name is Jhonatan Castrillon, I'am 19 years old.
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">C++</code>
 <code><img height="20" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png">Git</code>
 
-## Redes sociales y contacto
+## Social media and contact
 <p>
   <a href= "https://www.linkedin.com/in/jcastrillong/">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png" width="50px"/>
