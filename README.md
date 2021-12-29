@@ -2,8 +2,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jcastrillong_?label=Follow)](https://twitter.com/intent/follow?screen_name=jcastrillong_)
 ![GitHub followers](https://img.shields.io/github/followers/jcastrillong?label=Follow&style=social)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 My name is Jhonatan Castrillon, I'am 19 years old.
 
 ## 💼languages and tools:**  
