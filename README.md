@@ -21,6 +21,10 @@
   </a>
 </p>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/jcastrillong_?label=Follow)](https://twitter.com/intent/follow?screen_name=jcastrillong_)
+[![Linkedin: jcastrillong](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/jcastrillong?label=Follow&style=social)
+
 <!---
 JhonatanCastrillon/JhonatanCastrillon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
