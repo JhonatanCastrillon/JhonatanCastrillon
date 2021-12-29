@@ -8,16 +8,16 @@
 ## Redes sociales y contacto
 <p align="center">
   <a href= "https://www.linkedin.com/in/jcastrillong/">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png" padding="2px" width="25px"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png" padding="5px" width="50px"/>
   </a>
   <a href= "https://twitter.com/jcastrillong_">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" padding="5px" width="50px"/>
   </a>
   <a href="https://www.instagram.com/jcastrillong/">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" padding="5px" width="50px"/>
   </a>
   <a href="mailto:jhonatancastrillon34@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/2258/2258570.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2258/2258570.png" padding="5px" width="50px"/>
   </a>
 </p>
 
