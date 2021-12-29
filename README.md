@@ -4,7 +4,7 @@
 
 My name is Jhonatan Castrillon, I'am 19 years old.
 
-## 💼languages and tools:**  
+## Languages and Tools 💼
 
 <code>Java</code>
 <code>Javascript</code>
