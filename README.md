@@ -1,7 +1,7 @@
 - 👋 Hola, soy Jhonatan Esteban Castrillon Gonzalez.
-- 👀 Estoy interesado en aprender y profundizar en la POO.
+- 👀 Estoy interesado en aprender y profundizar en el Desarrollo de Software.
 - 🌱 Actualmente estoy aprendiendo lenguaje Java.
-- 👔 He aprendido(sin profundizar en el lenguaje), lenguajes como Python, C y C++.
+- 👔 He aprendido(sin profundizar en el lenguaje), lenguajes como Python, C, C++ y Java.
 
 <!---
 JhonatanCastrillon/JhonatanCastrillon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
