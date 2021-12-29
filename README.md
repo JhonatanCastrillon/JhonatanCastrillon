@@ -6,7 +6,7 @@
 
 My name is Jhonatan Castrillon, I'am 19 years old.
 
-**💼languages and tools:**  
+## 💼languages and tools:**  
 
 <code>Java</code>
 <code>Javascript</code>
@@ -16,6 +16,9 @@ My name is Jhonatan Castrillon, I'am 19 years old.
 <code>C</code>
 <code>C++</code>
 <code>Git</code>
+
+## My GitHub Stats📈
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jcastrillong&show_icons=true&theme=gotham" alt="jcastrillong" />
 
 ## Social media and contact
 <p>
