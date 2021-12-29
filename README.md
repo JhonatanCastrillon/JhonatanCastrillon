@@ -7,15 +7,13 @@ My name is Jhonatan Castrillon, I'am 19 years old.
 **languages and tools:**  
 
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">Java</code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">Javascrpt</code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">Javascript</code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">HTML</code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">CSS</code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">Python</code>
 <code><img height="20" src="https://cdn-icons.flaticon.com/png/512/3665/premium/3665923.png?token=exp=1640754754~hmac=34ea37cc00a29f691acac03544b1cae0">C</code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">C++</code>
 <code><img height="20" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png">Git</code>
-
-
 
 ## Redes sociales y contacto
 <p>
