@@ -8,6 +8,17 @@ String code[] = {Java, HTML, CSS, Javascript, Python, C, C++};
 String interests = "Estoy interesado en aprender y profundizar en el Desarrollo de Software.";
 ```
 
+```python
+name = "Jhonatan"
+funtion Jhonatan(name, age, code):
+  name = "Jhonatan"
+  age = 19
+  code = "Java"
+  
+  return name + age + code
+```
+
+
 ```javascript
 const thai = {
   pronouns: "she" | "her",
