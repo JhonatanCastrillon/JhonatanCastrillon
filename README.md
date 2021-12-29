@@ -6,7 +6,7 @@
 - 👔 He aprendido(sin profundizar en el lenguaje), lenguajes como Python, C, C++ y Java.
 
 ## Redes sociales y contacto
-<p align="center">
+<p>
   <a href= "https://www.linkedin.com/in/jcastrillong/">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png" width="50px"/>
   </a>
