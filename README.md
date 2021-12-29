@@ -9,17 +9,17 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
   </a>
   <a href= "https://twitter.com/jcastrillong_">
-    <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png"/>
+    <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" width="50" height="50"/>
   </a>
   <a href="https://www.instagram.com/jcastrillong/">
-    <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"/>
+    <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="50" height="50"/>
   </a>
 </p>
 
 ## Contacto
 <p aling="center">
   <a href="mailto:jhonatancastrillon34@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" height="50"/>
   </a>
 </p>
 
