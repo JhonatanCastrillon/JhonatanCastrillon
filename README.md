@@ -6,7 +6,7 @@
 ## Redes Sociales📲
 <p align="center">
   <a href= "https://www.linkedin.com/in/jcastrillong/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
   </a>
   <a href= "https://twitter.com/jcastrillong_">
     <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png"/>
