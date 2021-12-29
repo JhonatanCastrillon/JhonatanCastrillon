@@ -6,9 +6,6 @@
 - 👔 He aprendido(sin profundizar en el lenguaje), lenguajes como Python, C, C++ y Java.
 
 ## Redes sociales y contacto
-[![Twitter Follow](https://img.shields.io/twitter/follow/jcastrillong_?label=Follow)](https://twitter.com/intent/follow?screen_name=jcastrillong_)
-![GitHub followers](https://img.shields.io/github/followers/jcastrillong?label=Follow&style=social)
-
 <p align="center">
   <a href= "https://www.linkedin.com/in/jcastrillong/">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png" width="50px"/>
@@ -23,6 +20,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2258/2258570.png" width="50px"/>
   </a>
 </p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jcastrillong_?label=Follow)](https://twitter.com/intent/follow?screen_name=jcastrillong_)
+![GitHub followers](https://img.shields.io/github/followers/jcastrillong?label=Follow&style=social)
 
 <!---
 JhonatanCastrillon/JhonatanCastrillon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
