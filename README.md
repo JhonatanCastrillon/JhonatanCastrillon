@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI?si=42569ecbc4734259">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?theme=dark" width="240px">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12174864445&cover_image=true&theme=natemoo-re&bar_color=dark&bar_color_cover=true" width="400px">
   </a>
 </div>
 
