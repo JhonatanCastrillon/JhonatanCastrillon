@@ -18,14 +18,8 @@
 <br>
 
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=jcastrillong&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="jcastrillong" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcastrillong&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="jcastrillong" />
-</div>
-
-<div align="center">
-  <a href="https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI?si=42569ecbc4734259">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12174864445&cover_image=true&theme=natemoo-re&bar_color=dark&bar_color_cover=true" width="400px">
-  </a>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=jcastrillong&show_icons=true&theme=slateorange&title_color=1f1396&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="jcastrillong" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcastrillong&show_icons=true&theme=slateorange&title_color=1f1396&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="jcastrillong" />
 </div>
 
 ---
@@ -37,9 +31,11 @@
     <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
