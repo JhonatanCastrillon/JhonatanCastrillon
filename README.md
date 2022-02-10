@@ -10,7 +10,7 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Back-end development whith JavaScript and Nodejs, trying to get my first experience as a developer.</b></p>
+        <p>• 📚 I’m currently learning: <b>Back-end development with JavaScript and Nodejs, trying to get my first experience as a developer.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | Dance🕺🏼</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love to knowing and learning new things</b></p>
         <p>• 📫 How to reach me: <a href="mailto:jhonatancastrillon34@gmail.com">jhonatancastrillon34@gmail.com</a>
