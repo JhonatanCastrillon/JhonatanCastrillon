@@ -1,9 +1,6 @@
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 <img align="right" src="https://gpvc.arturio.dev/jcastrillong">
 <img align="left" src="https://img.shields.io/github/followers/jcastrillong?label=Follow&style=social">
 <img align="left" src="https://img.shields.io/twitter/follow/jcastrillong_?label=Follow">
-
 
 <h1 align="center">Hi 👋🏽, I'm Jhonatan Castrillón</h1>
 
@@ -14,6 +11,7 @@
         <p>• 💬 Ask me about: <b>Anything, honestly, I love to knowing and learning new things</b></p>
         <p>• 📫 How to reach me: <a href="mailto:jhonatancastrillon34@gmail.com">jhonatancastrillon34@gmail.com</a>
 </div>
+<img align="right" height="270px" width="350" alt="guy" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
 
 <div align="center">
