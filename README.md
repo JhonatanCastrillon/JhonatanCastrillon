@@ -1,17 +1,19 @@
+<img align="right" height="270px" width="350" alt="guy" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></a>
+
 <img align="right" src="https://gpvc.arturio.dev/jcastrillong">
 <img align="left" src="https://img.shields.io/github/followers/jcastrillong?label=Follow&style=social">
 <img align="left" src="https://img.shields.io/twitter/follow/jcastrillong_?label=Follow">
+<br>
 
 <h1 align="center">Hi 👋🏽, I'm Jhonatan Castrillón</h1>
 
-<div align="left">
+<div>
     <h3>👨🏽‍💻 About me:</h3>
         <p>• 📚 I’m currently learning: <b>Back-end development with JavaScript and Nodejs, trying to get my first experience as a developer.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | Dance🕺🏼</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love to knowing and learning new things</b></p>
         <p>• 📫 How to reach me: <a href="mailto:jhonatancastrillon34@gmail.com">jhonatancastrillon34@gmail.com</a>
 </div>
-<img align="right" height="270px" width="350" alt="guy" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
 
 <div align="center">
